@@ -1,2 +1,2 @@
 # ept-html
-https://github.com/ALXTR22/ept-html.git
+https://alxtr22.github.io/ept-html/
